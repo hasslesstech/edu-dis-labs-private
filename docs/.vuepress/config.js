@@ -66,11 +66,6 @@ module.exports = {
       title: 'Висновки',
       path:"/conclusion/"
     },
-    
-    {
-      title: 'API',
-      path:"/api/"
-    }
 
   ],
     sidebarDepth: 2,
