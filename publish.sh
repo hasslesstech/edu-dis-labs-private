@@ -20,6 +20,6 @@ git commit -m '[automated]: pushing regenerated documentation'
 # git push -f git@github.com:boldak/<USERNAME>.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f http://10.1.1.1:3000/hasslesstech/edu-dis-labs master:gh-pages
+git push -f http://10.1.1.1:3000/hasslesstech/edu-dis-labs-private master:gh-pages
 
 cd -
